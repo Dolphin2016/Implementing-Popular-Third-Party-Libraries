@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects.Mappers", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects.Tests", "MappingObjects.Tests\MappingObjects.Tests.csproj", "{84D085DB-5EE5-4AB9-8DE5-9CD11920A378}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MappingObjects", "MappingObjects\MappingObjects.csproj", "{CE268883-087B-4857-B8F4-7427FF4515B6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{84D085DB-5EE5-4AB9-8DE5-9CD11920A378}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84D085DB-5EE5-4AB9-8DE5-9CD11920A378}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84D085DB-5EE5-4AB9-8DE5-9CD11920A378}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE268883-087B-4857-B8F4-7427FF4515B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE268883-087B-4857-B8F4-7427FF4515B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE268883-087B-4857-B8F4-7427FF4515B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE268883-087B-4857-B8F4-7427FF4515B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

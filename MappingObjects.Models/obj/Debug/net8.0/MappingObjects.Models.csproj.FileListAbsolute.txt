@@ -1,0 +1,12 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\bin\Debug\net8.0\MappingObjects.Models.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\refint\MappingObjects.Models.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\MappingObjects.Models.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Models\obj\Debug\net8.0\ref\MappingObjects.Models.dll

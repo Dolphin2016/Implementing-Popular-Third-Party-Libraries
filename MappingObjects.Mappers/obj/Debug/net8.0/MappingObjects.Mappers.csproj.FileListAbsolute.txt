@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Mappers.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Models.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\bin\Debug\net8.0\MappingObjects.Models.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.csproj.CopyComplete
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\refint\MappingObjects.Mappers.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\MappingObjects.Mappers.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\MappingObjects.Mappers\obj\Debug\net8.0\ref\MappingObjects.Mappers.dll

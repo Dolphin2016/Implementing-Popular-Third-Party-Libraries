@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/tUrtJgRXe4zSGJXoej+YkuX7jAvM1rxprfTXR1CNHBFWkSIgT5hwtj1DdXzc3/szb1vsdSYagGZXTwsChK36A==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\C_SHARP_PROJECTS\\APPS AND SERVICES .NET 7\\Chapter05\\MappingObjects.Mappers\\MappingObjects.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

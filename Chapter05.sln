@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.Validators
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentValidation.App", "FluentValidation.App\FluentValidation.App.csproj", "{68B8101F-E015-4229-B9C4-FCC2540140DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingPdf.Models", "GeneratingPdf.Models\GeneratingPdf.Models.csproj", "{BA98AE8D-6BBC-4985-8348-F0CFE3B3A4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeneratingPdf.Document", "GeneratingPdf.Document\GeneratingPdf.Document.csproj", "{EAE0E768-2CF1-4C92-8F75-114EBB968790}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{68B8101F-E015-4229-B9C4-FCC2540140DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68B8101F-E015-4229-B9C4-FCC2540140DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68B8101F-E015-4229-B9C4-FCC2540140DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA98AE8D-6BBC-4985-8348-F0CFE3B3A4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA98AE8D-6BBC-4985-8348-F0CFE3B3A4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA98AE8D-6BBC-4985-8348-F0CFE3B3A4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA98AE8D-6BBC-4985-8348-F0CFE3B3A4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE0E768-2CF1-4C92-8F75-114EBB968790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE0E768-2CF1-4C92-8F75-114EBB968790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE0E768-2CF1-4C92-8F75-114EBB968790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE0E768-2CF1-4C92-8F75-114EBB968790}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

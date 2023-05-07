@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "FKEO/irXft5rROBqyQGermxcTWozCQUSKZXhJENJDvqVVLKUOOanfjB3nKpgfgcYY7tuk8gYqtat/sczARHM4Q==",
+  "success": true,
+  "projectFilePath": "D:\\PROJECTS\\C_SHARP_PROJECTS\\APPS AND SERVICES .NET 7\\Chapter05\\GeneratingPdf.Document\\GeneratingPdf.Document.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eugene\\.nuget\\packages\\harfbuzzsharp\\2.8.2.3\\harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\2.8.2.3\\harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\2.8.2.3\\harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\questpdf\\2023.4.1\\questpdf.2023.4.1.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.3\\skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Eugene\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}

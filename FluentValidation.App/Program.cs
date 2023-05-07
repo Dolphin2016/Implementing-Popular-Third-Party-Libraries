@@ -5,11 +5,11 @@ using FluentValidation.Results; // ValidationResult
 Order order = new()
 {
     OrderId = 10001,
-    CustomerName = "Abc",
-    CustomerEmail = "abc&example.com",
-    CustomerLevel = (CustomerLevel)4,
+    CustomerName = "Abcdef",
+    CustomerEmail = "abc@example.com",
+    CustomerLevel = CustomerLevel.Gold,
     OrderDate = new(2023, 12, 1),
-    ShipDate = new(2023, 11, 5),
+    ShipDate = new(2023, 12, 5),
     Total = 49.99M
 };
 

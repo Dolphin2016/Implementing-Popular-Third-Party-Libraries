@@ -4,7 +4,13 @@ using FluentValidation.Results; // ValidationResult
 
 Order order = new()
 {
-    // start with an invalid order
+    OrderId = 10001,
+    CustomerName = "Abc",
+    CustomerEmail = "abc&example.com",
+    CustomerLevel = (CustomerLevel)4,
+    OrderDate = new(2023, 12, 1),
+    ShipDate = new(2023, 11, 5),
+    Total = 49.99M
 };
 
 OrderValidator validator = new();

@@ -1,0 +1,15 @@
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\bin\Debug\net8.0\GeneratingPdf.Document.deps.json
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\bin\Debug\net8.0\GeneratingPdf.Document.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\bin\Debug\net8.0\GeneratingPdf.Document.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\bin\Debug\net8.0\GeneratingPdf.Models.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\bin\Debug\net8.0\GeneratingPdf.Models.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.csproj.AssemblyReference.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.AssemblyInfoInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.AssemblyInfo.cs
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.csproj.CoreCompileInputs.cache
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.csproj.CopyComplete
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\refint\GeneratingPdf.Document.dll
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\GeneratingPdf.Document.pdb
+D:\PROJECTS\C_SHARP_PROJECTS\APPS AND SERVICES .NET 7\Chapter05\GeneratingPdf.Document\obj\Debug\net8.0\ref\GeneratingPdf.Document.dll
